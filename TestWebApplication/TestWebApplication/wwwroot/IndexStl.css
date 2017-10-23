@@ -1,0 +1,64 @@
+﻿body {
+    overflow:hidden;
+    text-overflow:clip;
+}
+
+td {
+    border: 1px solid black;
+    width: 250px;
+    text-align:center;
+}
+
+tr {
+    height: 30px;
+    border: 1px solid black;
+    padding: 5px 5px 5px 5px;
+}
+
+table {
+    border: 1px solid black;
+    padding: 5px 5px 5px 5px;
+}
+
+.NewTaskForm {
+    border: 1px solid black;
+    width: 300px;
+    padding: 5px 5px 5px 5px;
+}
+
+textarea {
+    border: 1px solid black;
+    width: 280px;
+    margin: 5px 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
+}
+
+button {
+    margin: 5px 5px 5px 5px;
+    padding: 2px 2px 2px 2px;
+}
+
+.Task {
+    border: 1px solid black;
+    margin: 5px 5px 5px 5px;
+    width: 300px;
+    padding: 5px 5px 5px 5px;
+    text-align: left;
+    overflow: hidden;
+    text-overflow:ellipsis;
+}
+
+.Task h3 {
+        text-align:center;
+        margin-top: 5px;
+}
+
+.DescriptionText {
+    height: 100px;
+}
+
+.TColumn {
+    margin: 5px 5px 5px 5px;
+    width: 320px;
+    padding: 5px 5px 5px 5px;
+}

@@ -1,0 +1,11 @@
+C:\Users\SERGE\source\repos\TestWebApplication\TestWebApplication\bin\Debug\netcoreapp2.0\TestWebApplication.deps.json
+C:\Users\SERGE\source\repos\TestWebApplication\TestWebApplication\bin\Debug\netcoreapp2.0\TestWebApplication.runtimeconfig.json
+C:\Users\SERGE\source\repos\TestWebApplication\TestWebApplication\bin\Debug\netcoreapp2.0\TestWebApplication.runtimeconfig.dev.json
+C:\Users\SERGE\source\repos\TestWebApplication\TestWebApplication\bin\Debug\netcoreapp2.0\TestWebApplication.dll
+C:\Users\SERGE\source\repos\TestWebApplication\TestWebApplication\bin\Debug\netcoreapp2.0\TestWebApplication.pdb
+C:\Users\SERGE\source\repos\TestWebApplication\TestWebApplication\obj\Debug\netcoreapp2.0\TestWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\SERGE\source\repos\TestWebApplication\TestWebApplication\obj\Debug\netcoreapp2.0\TestWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\SERGE\source\repos\TestWebApplication\TestWebApplication\obj\Debug\netcoreapp2.0\TestWebApplication.AssemblyInfoInputs.cache
+C:\Users\SERGE\source\repos\TestWebApplication\TestWebApplication\obj\Debug\netcoreapp2.0\TestWebApplication.AssemblyInfo.cs
+C:\Users\SERGE\source\repos\TestWebApplication\TestWebApplication\obj\Debug\netcoreapp2.0\TestWebApplication.dll
+C:\Users\SERGE\source\repos\TestWebApplication\TestWebApplication\obj\Debug\netcoreapp2.0\TestWebApplication.pdb
